@@ -1,0 +1,1 @@
+Module 7 of freecodecamp site on Javascript studies on HTML with CSS - How to use typography to build a nutrition label webpage using CSS to style text, adjust line height, and position your text.
